@@ -22,13 +22,13 @@ There are skills that I'm actively learning and using in my projects:
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143?style=flat-square&logo=neovim&logoColor=white) 
 ![Intellij](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=flat-square&logo=intellijidea&logoColor=white)<br>
 
----
 
 ### 🌱 Skills I'm Exploring
 
 I'm interested and actively learning, although I have not used them in my projects yet:
 
 - ![GO](https://img.shields.io/badge/GO-%2300ADD8?style=flat-square&logo=go&logoColor=white)<br>
+
 
 ### 🗃️ Retired Skills
 
