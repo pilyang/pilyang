@@ -33,7 +33,8 @@ There are skills that I'm actively learning and using in my projects:
 
 I'm interested and actively learning, although I have not used them in my projects yet:
 
-- ![GO](https://img.shields.io/badge/GO-%2300ADD8?style=flat-square&logo=go&logoColor=white)<br>
+- ![GO](https://img.shields.io/badge/GO-%2300ADD8?style=flat-square&logo=go&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED?style=flat-square&logo=docker&logoColor=white)<br>
 
 
 ### 🗃️ Retired Skills
