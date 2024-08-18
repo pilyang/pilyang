@@ -14,15 +14,18 @@
 
 ### 🚀 Skills in Use
 
-There are skills that I'm actively learning and using in my projects:
+There are skills that I'm actively learning and using:
 
-- ![java](https://img.shields.io/badge/java-007396?style=flat-square) 
+- ![java](https://img.shields.io/badge/java-007396?style=flat-square&logo=openjdk) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20boot-%236DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white) 
 ![JPA](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F?style=flat-square)<br>
+- ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby) 
+![rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails)<br>
 - ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)<br>
 - ![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=flat-square&logo=amazonaws&logoColor=white) 
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639?style=flat-square&logo=NGINX&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat-square&logo=github%20Actions&logoColor=white)<br>
+- ![vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)<br>
 - ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white) 
 ![Git Hub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143?style=flat-square&logo=neovim&logoColor=white) 
