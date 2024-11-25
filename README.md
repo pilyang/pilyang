@@ -14,7 +14,7 @@
 
 ### 🚀 Skills in Use
 
-There are skills that I'm actively learning and using:
+There are skills that I'm recently learning and using:
 
 - ![java](https://img.shields.io/badge/java-007396?style=flat-square&logo=openjdk) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20boot-%236DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white) 
