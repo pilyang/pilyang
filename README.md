@@ -1,8 +1,3 @@
-<div align=right>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpilyang&count_bg=%23252525&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
 
 # Jaepil Yang | 양재필 
 
@@ -12,7 +7,7 @@
 
 ## Back-end Engineer
 
-### 🚀 Skills in Use
+### 🚀 Skills in Use and Expreienced
 
 There are skills that I'm recently learning and using:
 
@@ -21,10 +16,14 @@ There are skills that I'm recently learning and using:
 ![JPA](https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F?style=flat-square)<br>
 - ![ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby) 
 ![rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails)<br>
-- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)<br>
+- ![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
+![fastapi](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)<br>
+- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)<br>
 - ![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=flat-square&logo=amazonaws&logoColor=white) 
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639?style=flat-square&logo=NGINX&logoColor=white)
-![Github Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat-square&logo=github%20Actions&logoColor=white)<br>
+![Github Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF?style=flat-square&logo=github%20Actions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%232496ED?style=flat-square&logo=docker&logoColor=white)<br>
 - ![vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)<br>
 - ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white) 
 ![Git Hub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
@@ -34,10 +33,9 @@ There are skills that I'm recently learning and using:
 
 ### 🌱 Skills I'm Exploring
 
-I'm interested and actively learning, although I have not used them in my projects yet:
+I'm interested or learning, although I have not used them in my projects yet:
 
 - ![GO](https://img.shields.io/badge/GO-%2300ADD8?style=flat-square&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED?style=flat-square&logo=docker&logoColor=white)<br>
 
 
 ### 🗃️ Retired Skills
