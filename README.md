@@ -19,6 +19,7 @@ There are skills that I'm recently learning and using:
 - ![python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![fastapi](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)<br>
 - ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=white)<br>
 - ![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=flat-square&logo=amazonaws&logoColor=white) 
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639?style=flat-square&logo=NGINX&logoColor=white)
